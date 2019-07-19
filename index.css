@@ -8,7 +8,7 @@ body {
 }
 
 .jumbotron {
-  background-color: white;
+  background-color: #afeeee57;
   padding: 2%;
 }
 
@@ -22,7 +22,6 @@ body {
 
 .navbar {
   background-color: #f7f7f7;
-  width: 95%;
   margin: 0 auto;
   border-radius: 10px;
 }
